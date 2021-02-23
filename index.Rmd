@@ -1,5 +1,5 @@
 ---
-title: "Emmanul Hernández Sánchez"
+title: "Emmanuel Hernández Sánchez"
 image: "Spinosaurus_aegyptiacus.jpg"
 color1: "#5A59A3"
 color2: "#C66060"
