@@ -1,6 +1,6 @@
 ---
-title: "Willkommen!"
-image: "herzl.jpg"
+title: "Emmanul Hernández Sánchez"
+image: "Spinosaurus_aegyptiacus.jpg"
 color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
@@ -12,7 +12,7 @@ links:
   - label: Twitter
     url: "https://twitter.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:emmanuel_231220@outlook.com"
 output:
   postcards::onofre
 ---
